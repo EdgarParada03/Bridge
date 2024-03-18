@@ -1,0 +1,8 @@
+com\mycompany\bridge\Main.class
+com\mycompany\bridge\SmallChurroFactory.class
+com\mycompany\bridge\MediumChurroFactory.class
+com\mycompany\bridge\ChurroMachineChocolate.class
+com\mycompany\bridge\ChurroMachine.class
+com\mycompany\bridge\ChurroMachineStrawberry.class
+com\mycompany\bridge\LargeChurroFactory.class
+com\mycompany\bridge\ChurroFactory.class
